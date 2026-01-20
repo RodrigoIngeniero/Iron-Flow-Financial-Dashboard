@@ -16,7 +16,7 @@ Haz clic en el botón de abajo para interactuar con el dashboard en vivo:
 ### 📸 VISTA PREVIA
 Así luce el panel de control de indicadores (Dark Mode):
 
-![Dashboard Iron Flow](dashboard.png)
+![Dashboard Iron Flow](Dashboard.png)
 
 ### 🧠 Lógica del Negocio
 El sistema automatiza el cálculo de:
